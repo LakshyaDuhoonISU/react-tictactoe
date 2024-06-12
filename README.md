@@ -13,7 +13,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple implementation of the classic 
 <h2>Installation - </h2>
 Follow these steps to set up the project locally:<br>
 1. Clone the repository:<br>
-<code>git clone https://github.com/your-username/tic-tac-toe-react.git 
+<code>git clone https://github.com/LakshyaDuhoon/tic-tac-toe-react.git 
 cd tic-tac-toe-react
 </code>
 
